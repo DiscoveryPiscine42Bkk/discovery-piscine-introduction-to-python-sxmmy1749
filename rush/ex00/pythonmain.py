@@ -51,7 +51,7 @@ class TaskManager:
 def display_menu():
     """แสดงเมนูหลัก"""
     print("\n" + "="*40)
-    print("Smart Farm Task Organizer")
+    print("Smart Farm love Organizer")
     print("="*40)
     print("1. เพิ่มงานในฟาร์ม")
     print("2. แสดงรายการงานทั้งหมด")
